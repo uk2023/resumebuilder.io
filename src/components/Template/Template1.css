@@ -1,0 +1,104 @@
+/* template1.css */
+.resume-container {
+  width: 21cm;
+  height: 29.5cm;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .resume-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .resume-header h2 {
+    text-transform: uppercase;
+    margin: 0;
+  }
+  
+  .resume-header p {
+    font-size: 14px;
+    margin: 0;
+  }
+
+  .summary h4,
+  .education h4,
+  .key-skills h4,
+  .work-experience h4,
+  .courses h4,
+  .hobbies h4
+  {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  .summary p {
+    font-size: 12px;
+    text-align: justify;
+  }
+
+  .key-skills p {
+    font-size: 12px;
+  }
+  .courses p {
+    font-size: 12px;
+  }
+
+  .hobbies p{
+    text-align: justify;
+    font-size: 12px;
+  }
+  .work {
+    font-size: 12px;
+  }
+  .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .row-one {
+    justify-content: space-between;
+  }
+
+
+  .edu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 12px;
+  }
+  
+  .resume-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .education,
+  .key-skills,
+  .work-experience {
+    flex: 1 1 45%; /* Adjust the width as needed */
+    margin-bottom: 20px;
+  }
+  
+  .personal-info div,
+  .education div,
+  .key-skills div,
+  .work-experience div {
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Add more styles as needed */
+  

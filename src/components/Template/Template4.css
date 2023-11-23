@@ -1,0 +1,95 @@
+/* Template4.css */
+
+.template4-container {
+    width: 21cm;
+    height: 29.5cm;
+    background-color: white;
+    margin: 10px;
+  }/* Template4.css */
+
+  .content {
+    
+    margin: 0 auto;
+    padding: 15px;
+  }
+
+  .template4-header {
+    display: flex;
+    align-items: center;
+    background-color: #4b0202;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .avatar-section {
+    position: absolute;
+    padding: 20px;
+  }
+  
+  .header-content {
+    margin: 0 auto;
+    flex: 1;
+    display: flex;
+    max-width: 50%;
+    flex-direction: column;
+    align-items: center; /* Center the content horizontally */
+    justify-content: center;
+    text-align: center;
+    color: white; 
+  }
+  
+  .header-content h2 {
+    text-transform: uppercase;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 40px;
+  }
+  
+  .header-content p {
+    font-size: 14px;
+    margin-top: 0px;
+    word-spacing: 4px;
+  }
+  .skill {
+    display: flex;
+    flex-direction: row;
+  }
+  .skill p {
+    padding: 10px 15px;
+    margin-right: 5px;
+    background-color: #4b020244;
+    color: #2e0101;
+    border: 1.4px solid #2e0101;
+    border-radius: 5px;
+  }
+
+  /* Add or modify these styles in your CSS */
+
+.work-experiences .experience {
+    margin-bottom: 20px; /* Add spacing between experiences */
+  }
+  
+  .work-experiences .experience-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Align items to the top */
+  }
+  
+  .experience-header p {
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .work-experiences .date-period {
+    font-weight:400; 
+  }
+  
+  .resume-summary4 .summary h4,
+  .resume-summary4 .education h4,
+  .resume-summary4 .key-skills h4,
+  .resume-summary4 .work-experiences h4,
+  .resume-summary4 .courses h4 {
+    text-align: center;
+    margin-bottom: 0;
+    color: #2e0101
+  }

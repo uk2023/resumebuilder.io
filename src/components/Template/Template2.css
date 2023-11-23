@@ -1,0 +1,99 @@
+/* Template2.css */
+.template2-container {
+  width: 21cm;
+  height: 29.5cm;
+  margin: 10px;
+  }
+
+.template2-header {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #035714c9;
+  padding: 40px;
+}
+
+.template2-header h2 {
+  text-transform: uppercase;
+  color: white;
+  margin: 0;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+
+.template2-header p {
+  font-size: 14px;
+  margin: 0;
+  color: antiquewhite;
+}
+
+.resume-summary2 .summary h4,
+.resume-summary2 .education h4,
+.resume-summary2 .key-skills h4,
+.resume-summary2 .work-experiences h4,
+.resume-summary2 .courses h4 {
+  text-align: left;
+  margin-bottom: 0;
+  color: #035714c9;
+  margin-bottom: 5px
+}
+
+.resume-summary2{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.resume-summary2 p,
+.key-skills p,
+.work .row p,
+.edu p,
+.courses p,
+.hobbies p {
+  font-size: 12px;
+  text-align: justify;
+}
+
+.work .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.work .row-one {
+  justify-content: space-between;
+}
+
+.edu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.template2-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.work-experiences,
+.education,
+.courses {
+  flex: 1 1 45%; /* Adjust the width as needed */
+  margin-bottom: 20px;
+}
+
+.template2-container p {
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #333;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+strong {
+  font-weight: bold;
+  color: #555;
+}
+
+/* Add more styles as needed */

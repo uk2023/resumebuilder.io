@@ -1,0 +1,107 @@
+/* Template3.css */
+  .template3-container {
+    width: 21cm;
+    height: 29.5cm;
+    margin: 10px;
+  }
+  
+  .template3-header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #1294d4;
+    padding: 40px;
+  }
+  
+  .template3-header h2 {
+    text-transform: uppercase;
+    color: white;
+    margin: 0;
+  }
+  
+  .template3-header p {
+    font-size: 14px;
+    margin: 0;
+    color: antiquewhite;
+  }
+  
+  .resume-summary3 .summary h4,
+  .resume-summary3 .education h4,
+  .resume-summary3 .key-skills h4,
+  .resume-summary3 .work-experiences h4,
+  .resume-summary3 .courses h4 {
+    text-align: center;
+    margin-bottom: 0;
+    color: #1294d4
+  }
+  
+  .resume-summary3 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .resume-summary3 p {
+    font-size: 12px;
+    text-align: justify;
+  }
+  
+  .key-skills p {
+    font-size: 12px;
+  }
+  
+  .courses p {
+    font-size: 12px;
+  }
+  
+  .experience {
+    font-size: 12px;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .row-one {
+    justify-content: space-between;
+  }
+  
+  .edu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 12px;
+  }
+  
+  .template3-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .education,
+  .key-skills,
+  .work-experiences {
+    flex: 1 1 45%; /* Adjust the width as needed */
+    margin-bottom: 20px;
+  }
+  
+  .personal-info div,
+  .education div,
+  .key-skills div,
+  .work-experiences div {
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Add more styles as needed */
+  

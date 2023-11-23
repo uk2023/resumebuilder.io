@@ -1,0 +1,75 @@
+.template-dashboard-container {
+    padding: 20px;
+  }
+
+  .margin {
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+  .margin2 {
+    margin-bottom: 60px;
+  }
+  .template-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+    background-position-y: center;
+  }
+  
+  .card {
+    width: 265px;
+    height: 340px;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.3s ease;
+  }
+  
+  
+  .card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .card:hover::after {
+    opacity: 1;
+  }
+  
+  /* ...previous CSS code... */
+
+/* ...previous CSS code... */
+
+.card-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.3s ease; /* Add a transition effect for smooth appearance */
+  }
+  
+  .card:hover .card-actions {
+    opacity: 1;
+  }
+  
+.button {
+  height: 35px; /* Adjust the height as needed */
+  font-size: 14px; /* Adjust the font size as needed */
+}
+
+  
