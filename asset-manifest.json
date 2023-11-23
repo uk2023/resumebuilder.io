@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6eff41e6.css",
-    "main.js": "/static/js/main.d5324fea.js",
-    "static/js/498.7aaecf1c.chunk.js": "/static/js/498.7aaecf1c.chunk.js",
-    "static/js/703.84f6427a.chunk.js": "/static/js/703.84f6427a.chunk.js",
-    "static/js/598.f304fc51.chunk.js": "/static/js/598.f304fc51.chunk.js",
-    "static/media/avtar.png": "/static/media/avtar.b99b397bc6824c6e0d36.png",
-    "static/media/about.gif": "/static/media/about.834e2905e4845e1403bb.gif",
-    "static/media/template1.jpg": "/static/media/template1.3ce74d3d4bd923ed9a8a.jpg",
-    "static/media/template2.png": "/static/media/template2.4a088aef196546605e75.png",
-    "static/media/template4.png": "/static/media/template4.17ba64729b5736f92fee.png",
-    "static/media/template3.png": "/static/media/template3.ca8014f3b9f4b3b50876.png",
-    "index.html": "/index.html",
-    "main.6eff41e6.css.map": "/static/css/main.6eff41e6.css.map",
-    "main.d5324fea.js.map": "/static/js/main.d5324fea.js.map",
-    "498.7aaecf1c.chunk.js.map": "/static/js/498.7aaecf1c.chunk.js.map",
-    "703.84f6427a.chunk.js.map": "/static/js/703.84f6427a.chunk.js.map",
-    "598.f304fc51.chunk.js.map": "/static/js/598.f304fc51.chunk.js.map"
+    "main.css": "/resumebuilder.io/static/css/main.6eff41e6.css",
+    "main.js": "/resumebuilder.io/static/js/main.ae14e7f0.js",
+    "static/js/498.7aaecf1c.chunk.js": "/resumebuilder.io/static/js/498.7aaecf1c.chunk.js",
+    "static/js/703.84f6427a.chunk.js": "/resumebuilder.io/static/js/703.84f6427a.chunk.js",
+    "static/js/598.f304fc51.chunk.js": "/resumebuilder.io/static/js/598.f304fc51.chunk.js",
+    "static/media/avtar.png": "/resumebuilder.io/static/media/avtar.b99b397bc6824c6e0d36.png",
+    "static/media/about.gif": "/resumebuilder.io/static/media/about.834e2905e4845e1403bb.gif",
+    "static/media/template1.jpg": "/resumebuilder.io/static/media/template1.3ce74d3d4bd923ed9a8a.jpg",
+    "static/media/template2.png": "/resumebuilder.io/static/media/template2.4a088aef196546605e75.png",
+    "static/media/template4.png": "/resumebuilder.io/static/media/template4.17ba64729b5736f92fee.png",
+    "static/media/template3.png": "/resumebuilder.io/static/media/template3.ca8014f3b9f4b3b50876.png",
+    "index.html": "/resumebuilder.io/index.html",
+    "main.6eff41e6.css.map": "/resumebuilder.io/static/css/main.6eff41e6.css.map",
+    "main.ae14e7f0.js.map": "/resumebuilder.io/static/js/main.ae14e7f0.js.map",
+    "498.7aaecf1c.chunk.js.map": "/resumebuilder.io/static/js/498.7aaecf1c.chunk.js.map",
+    "703.84f6427a.chunk.js.map": "/resumebuilder.io/static/js/703.84f6427a.chunk.js.map",
+    "598.f304fc51.chunk.js.map": "/resumebuilder.io/static/js/598.f304fc51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6eff41e6.css",
-    "static/js/main.d5324fea.js"
+    "static/js/main.ae14e7f0.js"
   ]
 }
